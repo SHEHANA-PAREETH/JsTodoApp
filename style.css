@@ -3,7 +3,6 @@ body{
     background: url(./coffee.jpg) no-repeat center center/cover;
 display: flex;
 flex-direction: column;
-
 justify-content: center;
 align-items: center;
 }
