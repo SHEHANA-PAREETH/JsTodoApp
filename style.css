@@ -2,8 +2,15 @@ body{
     height: 100vh;
     background: url(./coffee.jpg) no-repeat center center/cover;
 display: flex;
+flex-direction: column;
+
 justify-content: center;
 align-items: center;
+}
+h2{
+    width:70%;
+    margin-bottom: 20px;
+color: blueviolet;
 }
 #add-task-container{
     width:350px;
